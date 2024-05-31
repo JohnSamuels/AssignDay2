@@ -1,3 +1,5 @@
 Hi
 this is from the local repo
 line 3 from GitHub
+Issued - Git Pull and got line 3
+Let commit this to Git from SL - Mgr
