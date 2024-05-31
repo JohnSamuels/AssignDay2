@@ -1,2 +1,3 @@
 Hi
 this is from the local repo
+line 3 from GitHub
